@@ -1,0 +1,26 @@
+,User,Repository,Technology,Stars,Forks,Built_by
+0,shadcn,ui,TypeScript,"4,311",119,['shadcn']
+1,flutter,flutter,Dart,"149,003","24,418","['engine-flutter-autoroll', 'abarth', 'jonahwilliams', 'Hixie', 'HansMuller']"
+2,TheAppleTucker,backend-GPT,JavaScript,"1,242",91,"['evanmays', 'TheAppleTucker', 'davidyue1']"
+3,trekhleb,javascript-algorithms,JavaScript,"161,314","26,691","['trekhleb', 'alexstulov', 'm-maksyutin', 'appleJax', 'albertstill']"
+4,google,material-design-icons,None,"47,345","9,503","['jestelle', 'shyndman', 'addyosmani', 'rsheeter', 'tphinney']"
+5,dani-garcia,vaultwarden,Rust,"22,332","1,130","['dani-garcia', 'BlackDex', 'jjlin', 'mprasil', 'njfox']"
+6,DaviMarta,Automatiza-o,Jupyter Notebook,105,74,['DaviMarta']
+7,google,comprehensive-rust,Rust,"8,375",368,"['mgeisler', 'igor-petruk', 'fbornhofen', 'qwandor', 'brandonpollack23']"
+8,karpathy,nn-zero-to-hero,Jupyter Notebook,"4,994",388,"['karpathy', 'edvenson']"
+9,PowerShell,PowerShell,C#,"36,887","6,244","['andschwa', 'TravisEz13', 'daxian-dbw', 'xtqqczze', 'SteveL-MSFT']"
+10,sindresorhus,awesome,None,"235,917","24,827","['sindresorhus', 'davisonio', 'RichardLitt', 'arthurvr', 'kdeldycke']"
+11,initialcommit-com,git-sim,Python,"1,474",46,"['initialcommit-io', 'abhijitnathwani', 'cclauss', 'paketb0te', 'SuperSandro2000']"
+12,daveshap,LongtermChatExternalSources,Python,184,50,['daveshap']
+13,microsoft,terminal,C++,"87,233","7,652","['DHowett', 'zadjii-msft', 'miniksa', 'carlos-zamora', 'lhecker']"
+14,calcom,cal.com,TypeScript,"16,124","1,912","['PeerRich', 'zomars', 'baileypumfleet', 'emrysal', 'apps/kodiakhq']"
+15,LAION-AI,Open-Assistant,Python,"5,001",433,"['fozziethebeat', 'yk', 'andreaskoepf', 'AbdBarho', 'andrewm4894']"
+16,bradtraversy,50projects50days,CSS,"24,932","6,648","['bradtraversy', 'florinpop17', 'OmarAshraf-Bombo', 'GouthamShiv', 'KrishnaMoorthy12']"
+17,deepmap,oapi-codegen,Go,"3,040",537,"['jamietanna', 'deepmap-marcinr', 'apps/dependabot', 'weitzj', 'mycrEEpy']"
+18,aptos-labs,aptos-core,Rust,"4,804","2,773","['gregnazario', 'davidiw', 'JoshLind', 'bmwill', 'rustielin']"
+19,udlbook,udlbook,Jupyter Notebook,336,28,['udlbook']
+20,n00mkrad,text2image-gui,C#,443,51,"['n00mkrad', 'AdamNorberg', 'xliee', 'Arecsu', 'dymil']"
+21,pytorch,pytorch,C++,"62,086","17,294","['ezyang', 'malfet', 'zou3519', 'soumith', 'gchanan']"
+22,LazyVim,LazyVim,Lua,"2,551",147,"['folke', 'apps/github-actions', 'appelgriebsch', 'lkhphuc', 'slvstr-dev']"
+23,Liuhaixv,Goose_Goose_Duck_Hack,C++,194,24,"['Liuhaixv', 'lanting200', 'blue-chocolates']"
+24,nuxt,nuxt,TypeScript,"42,809","3,382","['danielroe', 'pi0', 'apps/renovate', 'renovate-bot', 'antfu']"
