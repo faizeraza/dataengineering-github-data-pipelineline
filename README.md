@@ -17,7 +17,7 @@ This project basically scraps , manages , analyze the changes takes place in tre
 
 ## Data Flow Diagram
 <code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/data_flow.png"></code>
-
+<code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/GitHub Data Analytics - Page 1.png"></code>
 ## important links
 1. https://github.com/trending?since=daily
 2. https://github.com/trending?since=weekly
