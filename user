@@ -1,4 +1,4 @@
-,user_id,follower,location,total_repos,total_gists,email,join_date
+,user_id,followers,location,total_repos,total_gists,email,join_date
 0,microsoft,44723,"Redmond, WA",5751,0,opensource@microsoft.com,2013-12-10 19:06:48
 1,QwenLM,90,China,1,0,qianwen_opensource@alibabacloud.com,2023-08-02 08:18:52
 2,manticoresoftware,89,,88,0,contact@manticoresearch.com,2017-05-19 03:53:03
