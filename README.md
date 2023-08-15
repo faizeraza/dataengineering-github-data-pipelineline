@@ -51,9 +51,9 @@ Solution: I created a Python function to calculate rank values using customizabl
 ## Star Schema Diagram
 <code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/schema/star_schemaV1.2.png"></code>
 ## WorkLow Flow Diagram Over Local
-<code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/GitHub Data Analytics - Page 1.png"></code>
+<code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/GDAv1.1/GitHub Data Analytics - Page 1.png"></code>
 ## WorkLow Flow Diagram Over Cloud
-<code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/GitHub Data Analytics.png"></code>
+<code> <img src="https://github.com/faizeraza/dataengineering-github-data-pipelineline/blob/main/GDAv1.1/GitHub Data Analytics.png"></code>
 ## important links
 1. https://github.com/trending?since=daily
 2. https://github.com/trending?since=weekly
