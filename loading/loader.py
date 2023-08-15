@@ -10,7 +10,7 @@ class Loader:
         host='localhost',
         database='gdadatawarehouse',
         user='postgres',
-        password="MFRtfk#3003"
+        password="yourpassword"
         )
         self.cur = self.conn.cursor()
 
